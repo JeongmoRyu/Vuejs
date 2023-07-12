@@ -4,6 +4,7 @@ vue2, vue3, FE
     - [start](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/start.md)
     - [prac1](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/prac1.md)
     - [prac2_message_combine](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/prac2.md)
+    - [oddNum](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/oddNum.md)
 
 - Vue3
     - [start](https://github.com/JeongmoRyu/Vuejs/blob/main/vue3/start.md)
