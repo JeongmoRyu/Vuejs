@@ -7,6 +7,7 @@ vue2, vue3, FE
     - [oddNum](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/oddNum.md)
     - [check_palindrome](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/check_palindrome.md)
     - [todolist](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/todolist.md)
+    - [mbti_button](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/mbti_button.md)
 
 - Vue3
     - [start](https://github.com/JeongmoRyu/Vuejs/blob/main/vue3/start.md)
