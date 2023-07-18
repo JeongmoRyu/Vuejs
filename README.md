@@ -10,6 +10,7 @@ vue2, vue3, FE
     - [mbti_button](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/mbti_button.md)
     - [increment](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/increment.md)
     - [actions](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/actions.md)
+    - [vue-router](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/vue-router.md)
 
 - Vue3
     - [start](https://github.com/JeongmoRyu/Vuejs/blob/main/vue3/start.md)
