@@ -12,6 +12,7 @@ vue2, vue3, FE
     - [actions](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/actions.md)
     - [vue-router](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/vue-router.md)
     - [random_choose_meal](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/random_choose_meal.md)
+    - [lottery](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/lottery.md)
 
 - Vue3
     - [start](https://github.com/JeongmoRyu/Vuejs/blob/main/vue3/start.md)
