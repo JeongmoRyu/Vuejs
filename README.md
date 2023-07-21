@@ -13,6 +13,7 @@ vue2, vue3, FE
     - [vue-router](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/vue-router.md)
     - [random_choose_meal](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/random_choose_meal.md)
     - [lottery](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/lottery.md)
+    - [axios_get_cat](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/axios_get_cat.md)
 
 - Vue3
     - [start](https://github.com/JeongmoRyu/Vuejs/blob/main/vue3/start.md)
