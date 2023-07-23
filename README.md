@@ -15,6 +15,7 @@ vue2, vue3, FE
     - [lottery](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/lottery.md)
     - [axios_get_cat](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/axios_get_cat.md)
     - [token](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/token.md)
+    - [get_movie_info](https://github.com/JeongmoRyu/Vuejs/blob/main/vue2/get_movie_info.md)
 
 - Vue3
     - [start](https://github.com/JeongmoRyu/Vuejs/blob/main/vue3/start.md)
