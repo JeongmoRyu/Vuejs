@@ -23,3 +23,4 @@ vue2, vue3, FE
     - [function](https://github.com/JeongmoRyu/Vuejs/blob/main/vue3/function.md)
     - [ref_reactive](https://github.com/JeongmoRyu/Vuejs/blob/main/vue3/ref_reactive.md)
     - [v-bind_oneway](https://github.com/JeongmoRyu/Vuejs/blob/main/vue3/v-bind_oneway.md)
+    - [v-model_twoway](https://github.com/JeongmoRyu/Vuejs/blob/main/vue3/v-model_twoway.md)
